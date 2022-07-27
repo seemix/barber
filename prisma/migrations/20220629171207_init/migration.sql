@@ -1,0 +1,2 @@
+-- AlterTable
+ALTER TABLE "Barber" ALTER COLUMN "rating" SET DATA TYPE TEXT;
